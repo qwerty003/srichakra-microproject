@@ -1,0 +1,241 @@
+.navigbar{
+	display:block;
+	position:sticky;
+	top:0;
+	width:100%;
+	height:50px;
+	margin-top:-16px;
+	background:black;
+	color:white;
+	text-decoration:none;
+}
+
+.navig{
+	float:left;
+	width:10%;
+	margin-left:2px;
+	height:100%;
+	
+}
+
+.logo{
+	float:left;
+	width:20%;
+	margin-left:2px;
+	height:100%;
+	
+}
+
+.navigbtn{
+	height:100%;
+	width:100%;
+	background:black;
+	border:none;
+    color:white;	
+}
+
+.navigbtn:hover {
+  background-color:rgb(200,0,50); /* Pink */
+  color:white;
+}
+
+.contact{
+	height:90%;
+	width:100%;
+	margin-top:2px;
+	background-color:rgb(220,0,50);
+	border:none;
+    color:white;	
+}
+
+.icon{
+	width:20px;
+    height:20px;
+	border:none;
+}
+
+.icon_btn{
+	height:100%;
+	width:40px;
+	background:black;
+	border:none;	
+}
+
+
+.mySlides {
+	display:none;
+	height:500px;
+	background-color:gray;
+}
+
+
+.items{
+	display:block;
+	height:400px;
+	margin-top:80px;
+	margin-bottom:80px;
+}
+
+.items-holder{
+	display:block;
+	height:100%;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+.items-card{
+	float:left;
+	width:22%;
+	margin-left:60px;
+	height:100%;
+	border-radius:30px;
+	padding:15px;
+	box-shadow: 0 8px 20px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.items-card:hover {
+  box-shadow: 0 20px 40px 0 rgba(0,0,0,0.2);
+  background-color:rgb(68, 0, 0);
+  color:white;
+}
+
+.items-card-image{
+	display:block;
+	height:55%;
+	width:100%;
+	margin-bottom:10px;
+	background-color:black;
+}
+
+.quiz{
+	display:block;
+	height:300px;
+	margin-top:80px;
+	margin-bottom:80px;
+	color:white;
+	background-image: linear-gradient(to bottom right, black, red);
+    text-align:center;	
+}
+
+.qom{
+	display:block;
+	width:100%;
+	height:40%;
+	background-color: #ffffff;
+    opacity: 0.25;
+	font-weight: bold;
+	color:black;
+}
+
+
+.message{
+	display:block;
+	height:500px;
+	margin-top:80px;
+	margin-bottom:80px;
+	padding-left:100px;
+	padding-right:150px;
+	padding-top:60px;
+	padding-bottom:60px;
+	border:1px solid black;
+}
+.message-image{
+	display:block;
+	float:left;
+	height:100%;
+	width:25%;
+	border:2px solid black;
+}
+
+.message-text{
+	display:block;
+	float:left;
+	height:100%;
+	width:65%;
+	padding-left:50px;
+}
+
+.awards{
+	display:block;
+	height:400px;
+	margin-top:80px;
+	margin-bottom:80px;
+}
+
+.awards-holder{
+	display:block;
+	height:100%;
+	margin-left:15%;
+	margin-right:15%;
+	text-align:center;
+	color:brown;
+}
+
+.awards-card{
+	float:left;
+	width:22%;
+	margin-left:60px;
+	height:60%;
+	padding:15px;
+	box-shadow: 0 8px 20px 0 rgba(0,0,0,0.1);
+}
+
+
+.footer{
+	display:block;
+	height:400px;
+	margin-top:80px;
+	padding-left:150px;
+	padding-right:180px;
+	background-color:black;
+	background-image: linear-gradient(to bottom right, rgb(70, 45, 0), rgb(32, 0, 0));
+	
+}
+
+.footer-content{
+	float:left;
+	width:280px;
+	height:100%;
+	margin-right:100px;
+	padding-top:5%;
+	padding-bottom:5%;
+	text-align:center;
+	color:white;
+	
+}
+
+
+
+
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
